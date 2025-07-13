@@ -2,7 +2,7 @@
 
 An interactive AI-powered chatbot designed to help students master **Data Structures and Algorithms (DSA)** through conversation. Built with **React**, **TypeScript**, and **Tailwind CSS**, this app leverages **Google's Gemini API** to generate educational explanations, hints, and code samples.
 
-🌐 **[Live Demo](https://dsa-instructor-chatbot-ccjg-abhi17bgps-projects.vercel.app)**
+🌐 **[Live Demo](https://dsa-constructor-chat-bot.vercel.app/)**
 
 ---
 
@@ -98,4 +98,4 @@ Then open your browser at [http://localhost:5173](http://localhost:5173) 🚀
 
 ## 🙌 Credits
 
-* Built by \[Abhi17bgp]\([https://github.com](https://github.com)
+* Built by \[Nikita Gupta]
